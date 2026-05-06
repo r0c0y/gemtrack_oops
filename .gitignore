@@ -11,3 +11,6 @@ yarn-error.log*
 .idea/
 .vscode/
 *.log
+concept.md
+viva_prep.md
+GemTrack_System_Design_Report.tex
